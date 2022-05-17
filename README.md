@@ -9,5 +9,6 @@ The purpose of this project is to find out if the Surf&Icecream Shop business is
 #June
 The June data for eight years contain 1700 observations with mean 74.9, standard deviation 3.26. The minimum temperature is 64 F, lower quartile is 73 F, median is 75, upper quartile is 77 F,  and the maximum temperature is 85 F. Notice that median is very close to the mean. This shows that data is uniformaly distributed and the range is 21 F.    
 
-![image](https://user-images.githubusercontent.com/96134924/168729476-168f629e-4255-4ebb-b151-a0cb8b6c2f75.png)
+![image](https://user-images.githubusercontent.com/96134924/168730098-4083541b-fb63-4293-88fb-782bcdc93cba.png)
+
 
