@@ -20,6 +20,6 @@ The December data for eight years contain 1517 observations with mean of 71.04 F
 ![image](https://user-images.githubusercontent.com/96134924/168731333-bb5901dd-8480-46af-af08-4703b2a2dc2c.png)
 
 
-#Summary
+# Summary
 
 The standard deviation for December data is bigger than the standard deviation for June data. It means that the data for December is more spread and we can notice that  wider spread with the bigger range in December ( 27 F vs 21 F). The higher temperatures in June makes this month more attractive for the Surf&Icecream business. However, I would like to do more research on humidity and wind data in these months, since humidity will affect the tourist attraction and wind will affect the surf activities. If the waves in the ocean data is available too, this will also help us do a more acurate analysis for the sustainability of the business.    
