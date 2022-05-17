@@ -2,7 +2,7 @@
 
 # Overview
 
-The purpose of this project is to find out if the Surf&Icecream Shop business is feasible whole year. The months focused are June and December, the sixth and twelfth months. This focus is reasonable since they are in the middle and the end of the calendar and belong to the opposite seasons, summer and winter. The results show that due to the geographic loacation of Oahu, the weather conditions are quite similar in these months which makes the business look sustainable. 
+The purpose of this project is to find out if the Surf&Icecream Shop business is feasible throughout the whole year. The months focused are June and December, the sixth and twelfth months. This focus is reasonable since they are in the middle and the end of the calendar and belong to the opposite seasons, summer and winter. The results show that due to the geographic loacation of Oahu, the weather conditions are quite similar in these months which makes the business look sustainable. 
 
 # Analysis 
 
